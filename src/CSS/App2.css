@@ -8,8 +8,8 @@
         width: 80%;
     }
     .img{
-        height: 15rem;
-        width: auto;
+        height: auto;
+        width: 15rem;
     }
 
     .heading1{
@@ -37,8 +37,8 @@
       width: 70%;
     }
     .img{
-        height: 15rem;
-        width: auto;
+        height: auto;
+        width: 15rem;
     }
     .heading1{
         /* font-size: 1.75rem; */
